@@ -53,7 +53,7 @@ By doing so, I feel like I'm contributing a little bit in making the world a bet
 <hr>
 
 
-### ✍️ Sample Blog Posts : 
+### ✍️ Latest Blog Posts : 
 - [Big or Small, We Can All Make a Difference](https://volunteer-tech.com/blog/Big-or-Small,-We-Can-All-Make-A-Difference)
 - [Let Us Make The World A Better Place](https://volunteer-tech.com/blog/Let-Us-Make-The-World-A-Better-Place)
 - [Skills You Need To Master as a Software Developer](https://volunteer-tech.com/Aklilu/skills-you-need-to-master-as-a-software-developer)
