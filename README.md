@@ -1,30 +1,35 @@
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<hr>
+
+<h1 align="left">Hey there, I'm <a href="https://volunteer-tech.com/Aklilu">Aklilu </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+ <a href="https://volunteer-tech.com/Aklilu"><img align="right" src="https://volunteer-tech.com/Aklilu/uploads/gallery/202205/image_500x_6273d3aaa57de.jpg" alt="Developer's Profile" width="200"/></a> - A Tech Enthusiast </h1> 
+
+
+I'm a full-stack web  developer, researcher and coding instructor. I love coding and most of my time goes into learning the best ways to write clean code. When I am not at my desk, I can be seen exploring new technologies, reading tech blogs, solving problems on Data Structures and Algorithms, and helping out tech geeks.
+
+I'm the founder, CEO and coding instructor at [Volunteer Tech®](https://volunteer-tech.com/), a volunteering programme that serve the society around it by providing free-of-charge coding, leadership , research and personal development skills training to younger generations from low-income families, disadvantaged and marginalized communities in a way that makes a difference in their lives and the world. <br>
+By doing so, I feel like I'm contributing a little bit in making the world a better place.
+### Call me crazy but I like to see other people happy and succeeding!
+<hr>
+
+<h2 align="left">🌐 Stay Connected</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/aklilu-mandefro-messele-8a3681194/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/AkliluMandefro"><img title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:aklilu.mandefro@volunteer-tech.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Aklilu-Mandefro"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/aklilumandefro/"><img title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-<p align="center">
+<p align="left"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="300" /></p>
+<br>
+<p align="left">
 <a href="https://www.buymeacoffee.com/Aklilu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
-
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
-### :woman_technologist: &nbsp;About Me :
-
- I'm a Senior Full-stack Web Develper, Researcher and Coding Instructor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
-
-- 🔭 I love programming, coding and most of my time goes into learning the best ways to write clean code.
-- 🌱 I'm the founder and CEO at Volunteer Tech® (volunteer-tech.com), a volunteering programme that serve the society around it by providing free of charge coding, leadership , research and personal development skills training to younger generations from low-income families, disadvantaged and marginalized communities such as street children, people with disabilities, and orphan children in a way that makes a difference in their lives and the world. By doing so, I feel like I'm contributing a little bit in making the world a better place.
-- ⚡ hen I am not at my desk, I can be seen exploring new technologies, reading tech blogs, solving problems on Data Structures and Algorithms, and helping out tech geeks. I am always open to help others.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aklilu-mandefro-messele-8a3681194/)
-
----
+<hr>
 
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="laravel" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -34,28 +39,28 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQeury" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React " width="40" height="40"/>&nbsp; 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL"  alt="Microsoft SQL Server" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;  
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  
-  
+
+ 
+
 
 </p>
 
----
+<hr>
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
+### ✍️ Sample Blog Posts : 
+- [Big or Small, We Can All Make a Difference](https://volunteer-tech.com/blog/Big-or-Small,-We-Can-All-Make-A-Difference)
+- [Let Us Make The World A Better Place](https://volunteer-tech.com/blog/Let-Us-Make-The-World-A-Better-Place)
+- [Skills You Need To Master as a Software Developer](https://volunteer-tech.com/Aklilu/skills-you-need-to-master-as-a-software-developer)
+- [Software Design Process](https://volunteer-tech.com/Aklilu/software-design-process)
+- [Every Mistake is an Opportunity to grow Wiser](https://volunteer-tech.com/Aklilu/every-mistake-is-an-opportunity-to-grow-wiser)
+- [Tips for Writing High-Quality Thesis or Dissertation](https://volunteer-tech.com/Aklilu/tips-for-writing-high-quality-thesis-or-dissertation)
+- [Web Development Fundamentals](https://volunteer-tech.com/blog/Web-Development-Fundamentals---Part-One)
+ <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
