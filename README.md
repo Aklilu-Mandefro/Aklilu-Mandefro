@@ -8,7 +8,7 @@ I'm a full-stack web  developer, researcher and coding instructor. I love coding
 
 I'm the founder, CEO and coding instructor at [Volunteer Tech®](https://volunteer-tech.com/), a volunteering programme that serve the society around it by providing free-of-charge coding, leadership , research and personal development skills training to younger generations from low-income families, disadvantaged and marginalized communities in a way that makes a difference in their lives and the world. <br>
 By doing so, I feel like I'm contributing a little bit in making the world a better place.
-### CALL ME CRAZY BUT I LIKE TO SEE OTHER PEOPLE HAPPY AND SUCCEEDING!
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A0501&width=800&lines=CALL+ME+CRAZY+BUT+I+LIKE+TO+SEE+OTHER+PEOPLE+HAPPY+AND+SUCCEEDING!)](https://git.io/typing-svg)
 <hr>
 
 <h2 align="left">🌐 Stay Connected</h2>
