@@ -1,13 +1,16 @@
 <hr>
 
-<h1 align="left">Hey there, I'm <a href="https://volunteer-tech.com/Aklilu">Aklilu </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+
+<h1 align="left"> 🚀Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  I'm <a href="https://volunteer-tech.com/Aklilu">Aklilu </a>
  <a href="https://volunteer-tech.com/Aklilu"><img align="right" src="https://volunteer-tech.com/Aklilu/uploads/gallery/202205/image_500x_6273d3aaa57de.jpg" alt="Developer's Profile" width="200"/></a> - A Tech Enthusiast </h1> 
 
 
-I'm a full-stack web  developer, researcher and coding instructor. I love coding and most of my time goes into learning the best ways to write clean code. When I am not at my desk, I can be seen exploring new technologies, reading tech blogs, solving problems on Data Structures and Algorithms, and helping out tech geeks.
+I'm a `full-stack web  developer`,`researcher` and `coding instructor` who loves to learn new things and technology. I'm always talking to more experienced people to know new ideas and thoughts. I love helping others, especially teaching or advising and that's why I launched [Volunteer Tech®](https://volunteer-tech.com/). 
+I value communication and empathy, and I believe that's the most important thing above all, both at work and outside. 
 
-I'm the founder, CEO and coding instructor at [Volunteer Tech®](https://volunteer-tech.com/), a volunteering programme that serve the society around it by providing free-of-charge coding, leadership , research and personal development skills training to younger generations from low-income families, disadvantaged and marginalized communities in a way that makes a difference in their lives and the world. <br>
-By doing so, I feel like I'm contributing a little bit in making the world a better place.
+I love coding and most of my time goes into learning the best ways to write clean code. When I am not at my desk, I can be seen exploring new technologies, reading tech blogs, solving problems on Data Structures and Algorithms, and helping out tech geeks and others who are in need of urgent help.
+
+
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A0501&width=800&lines=CALL+ME+CRAZY+BUT+I+LIKE+TO+SEE+OTHER+PEOPLE+HAPPY+AND+SUCCEEDING!)](https://git.io/typing-svg)
 <hr>
 
@@ -28,8 +31,7 @@ By doing so, I feel like I'm contributing a little bit in making the world a bet
 </p>
 <hr>
 
-### 🛠 &nbsp;Languages and Tools :
-
+## 🧑‍💻🛠 Coding Languages and Tools:
 <p>
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
@@ -45,7 +47,10 @@ By doing so, I feel like I'm contributing a little bit in making the world a bet
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;  
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+
 
  
 
