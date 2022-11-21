@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/gLnTF5H.png" alt="Aklilu GitHub README header image"> 
+<img src="https://i.imgur.com/xhG33YC.png" alt="Aklilu GitHub README header image"> 
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A0501&width=800&lines=CALL+ME+CRAZY+BUT+I+LIKE+TO+SEE+OTHER+PEOPLE+HAPPY+AND+SUCCEEDING!)](https://git.io/typing-svg)
 
