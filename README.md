@@ -15,7 +15,7 @@ I'm the founder and CEO at Volunteer Tech®, a nonprofit organization that serve
 
 
 <h2 align="left">🌐 Stay Connected</h2>
-<p><a href="https://volunteer-tech.com/Aklilu">➡️ Check out My Blog</a></p>
+<p><a href="https://volunteer-tech.com/Aklilu">📃 Check out My Blog</a></p>
 <p align="left">
   <a href="https://www.linkedin.com/in/aklilu-mandefro-messele-8a3681194/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:aklilu.mandefro@volunteer-tech.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
