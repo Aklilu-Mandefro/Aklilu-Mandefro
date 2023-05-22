@@ -18,7 +18,6 @@ I'm the founder and CEO at Volunteer Tech®, a nonprofit organization that serve
 <p><a href="https://volunteer-tech.com/Aklilu">➡️ Check out My Blog</a></p>
 <p align="left">
   <a href="https://www.linkedin.com/in/aklilu-mandefro-messele-8a3681194/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/AkliluMandefro"><img title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:aklilu.mandefro@volunteer-tech.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Aklilu-Mandefro"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.instagram.com/aklilumandefro/"><img title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -52,7 +51,7 @@ I'm the founder and CEO at Volunteer Tech®, a nonprofit organization that serve
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/get-icon/geticon/blob/master/icons/aws.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
- 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="AWS" alt="AWS" width="60" height="65"/>&nbsp;
 
 
 </p>
