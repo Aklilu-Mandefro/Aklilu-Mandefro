@@ -16,21 +16,24 @@ I'm the founder and CEO at Volunteer Tech®, a nonprofit organization that serve
 
 
 
-<h2 align="left">🌐 Stay Connected</h2>
-<p><a href="https://volunteer-tech.com/Aklilu">📃 Check out My Blog</a></p>
-<p align="left">
+<h2 align="center">🌐 Stay Connected</h2>
+<p align="center"><a href="https://volunteer-tech.com/Aklilu">📃 Check out My Blog</a></p>
+<p align="center">
   <a href="https://www.linkedin.com/in/aklilu-mandefro-messele-8a3681194/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:aklilu.mandefro@volunteer-tech.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Aklilu-Mandefro"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.instagram.com/aklilumandefro/"><img title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
+
+<p>
 </p>
-<p align="left"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="300" /></p>
 <br>
-<p align="left">
-<a href="https://www.buymeacoffee.com/Aklilu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
+
+| <a href="https://github.com/Aklilu-Mandefro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aklilu-Mandefro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aklilu's github stats" /></a> | <a href="https://github.com/Aklilu-Mandefro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aklilu-Mandefro&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 <hr>
 
 ## 🧑‍💻🛠 Coding Languages and Tools:
@@ -62,11 +65,11 @@ I'm the founder and CEO at Volunteer Tech®, a nonprofit organization that serve
 
 
 ### ✍️ Latest Blog Posts : 
-- [Big or Small, We Can All Make a Difference](https://volunteer-tech.com/blog/Big-or-Small,-We-Can-All-Make-A-Difference)
-- [Let Us Make The World A Better Place](https://volunteer-tech.com/blog/Let-Us-Make-The-World-A-Better-Place)
+- [Developing A Desktop Apps with HTML, CSS and JavaScript](https://volunteer-tech.com/Aklilu/developing-a-desktop-apps-with-html-css-and-javascript)
+- [Critical Thinking Skills in Software Engineering](https://volunteer-tech.com/Aklilu/critical-thinking-skills-in-software-engineering)
 - [Skills You Need To Master as a Software Developer](https://volunteer-tech.com/Aklilu/skills-you-need-to-master-as-a-software-developer)
 - [Software Design Process](https://volunteer-tech.com/Aklilu/software-design-process)
-- [Every Mistake is an Opportunity to grow Wiser](https://volunteer-tech.com/Aklilu/every-mistake-is-an-opportunity-to-grow-wiser)
+- [Roadmap for Beginner Software Developers - I Wish I had If I Start Over](https://volunteer-tech.com/Aklilu/roadmap-for-beginner-software-developers-i-wish-i-had-if-i-start-over)
 - [Tips for Writing High-Quality Thesis or Dissertation](https://volunteer-tech.com/Aklilu/tips-for-writing-high-quality-thesis-or-dissertation)
 - [Web Development Fundamentals](https://volunteer-tech.com/blog/Web-Development-Fundamentals---Part-One)
  <!-- BLOG-POST-LIST:START -->
