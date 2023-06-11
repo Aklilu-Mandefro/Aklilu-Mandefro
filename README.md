@@ -1,4 +1,4 @@
-<a href="https://volunteer-tech.com/Aklilu/"><img src="https://i.imgur.com/ku0PQm2.png" alt="Aklilu GitHub README header image"> </a>
+<a href="https://volunteer-tech.com/Aklilu/" target="_blank"><img src="https://i.imgur.com/ku0PQm2.png" alt="Aklilu GitHub README header image"> </a>
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f75c7e&vCenter=true&width=800&lines=CALL+ME+CRAZY+BUT+I+LIKE+TO+SEE+OTHER+PEOPLE+HAPPY+AND+SUCCEEDING!)](https://git.io/typing-svg)
 
