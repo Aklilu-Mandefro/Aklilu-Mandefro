@@ -30,7 +30,7 @@ I'm the founder and CEO at Volunteer Tech®, a nonprofit organization that serve
 </p>
 <h2 align="center">
 
-## 📈 GitHub Stats
+<h2> <strong>📈 GitHub Stats </strong></h2> 
 
 </h2> 
 
