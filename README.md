@@ -92,9 +92,9 @@ I value communication and empathy, and I believe that's the most important thing
 
 
 <a href="https://www.instagram.com/aklilumandefro/">
-  <img align="right" alt="Aklilu Mandefro | Instagram " width="30px"  src="https://github.com/get-icon/geticon/blob/master/icons/instagram-icon.svg" />
+  <img align="right" alt="Aklilu Mandefro | Instagram " width="30px"  height="60px" src="https://github.com/get-icon/geticon/blob/master/icons/instagram-icon.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/aklilu-mandefro-messele-8a3681194/">
-  <img align="right" alt="Aklilu Mandefro | Linkedin " width="60px" height="30px" src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" />
+  <img align="right" alt="Aklilu Mandefro | Linkedin " width="60px" height="60px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" />
 </a>
