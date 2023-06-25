@@ -70,7 +70,9 @@ I value communication and empathy, and I believe that's the most important thing
 
 #### Top Repositories
 
-
+<a href="https://github.com/Aklilu-Mandefro/form-validation-in-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=form-validation-in-react&theme=buefy" />
+</a>
 
 <a href="https://github.com/Aklilu-Mandefro/chatbot-using-react-nodejs-chatgpt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=chatbot-using-react-nodejs-chatgpt&theme=buefy" />
