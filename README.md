@@ -68,7 +68,7 @@ I value communication and empathy, and I believe that's the most important thing
 <hr>
 
 
-#### Top Repositories
+## Top Repositories
 
 <a href="https://github.com/Aklilu-Mandefro/form-validation-in-react">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=form-validation-in-react&theme=buefy" />
@@ -77,12 +77,6 @@ I value communication and empathy, and I believe that's the most important thing
 <a href="https://github.com/Aklilu-Mandefro/chatbot-using-react-nodejs-chatgpt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=chatbot-using-react-nodejs-chatgpt&theme=buefy" />
 </a>
-
-<br />
-<br />
-
-
-
 
 
 ### ✍️ Latest Blog Posts : 
@@ -96,3 +90,11 @@ I value communication and empathy, and I believe that's the most important thing
  <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
+<a href="https://www.instagram.com/aklilumandefro/">
+  <img align="right" alt="Aklilu Mandefro | Instagram " width="30px"  src="https://github.com/get-icon/geticon/blob/master/icons/instagram-icon.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/aklilu-mandefro-messele-8a3681194/">
+  <img align="right" alt="Aklilu Mandefro | Linkedin " width="60px" height="30px" src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" />
+</a>
