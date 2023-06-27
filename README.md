@@ -30,17 +30,16 @@ I value communication and empathy, and I believe that's the most important thing
 </p>
 <h2 align="center">
 
-<h2> <strong>📈 GitHub Stats </strong></h2> 
+### 📈 GitHub Stats </strong>
 
-</h2> 
 
 | <a href="https://github.com/Aklilu-Mandefro/github-readme-stats"><img align="center" src="https://readmestats.999857.xyz/api?username=Aklilu-Mandefro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Aklilu's github stats" /></a> | <a href="https://github.com/Aklilu-Mandefro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aklilu-Mandefro&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
 
 
-<hr>
 
-## 🧑‍💻🛠 Coding Languages and Tools:
+### 🧑‍💻🛠 Coding Languages and Tools:
+<hr>
 <p>
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
@@ -65,7 +64,6 @@ I value communication and empathy, and I believe that's the most important thing
 
 </p>
 
-<hr>
 
 ### ✍️ Latest Blog Posts : 
 - [Developing A Desktop Apps with HTML, CSS and JavaScript](https://volunteer-tech.com/Aklilu/developing-a-desktop-apps-with-html-css-and-javascript)
