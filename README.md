@@ -39,8 +39,12 @@ I value communication and empathy, and I believe that's the most important thing
 
 
 ### 🧑‍💻🛠 Coding Languages and Tools:
-<hr>
-<p>
+
+
+
+<table>
+  <tr>
+    <th><p>
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="laravel" width="40" height="40"/>&nbsp;
@@ -62,8 +66,10 @@ I value communication and empathy, and I believe that's the most important thing
     <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
 
 
-</p>
+</p></th>
+  </tr>
 
+</table>
 
 ### ✍️ Latest Blog Posts : 
 - [Developing A Desktop Apps with HTML, CSS and JavaScript](https://volunteer-tech.com/Aklilu/developing-a-desktop-apps-with-html-css-and-javascript)
@@ -75,7 +81,6 @@ I value communication and empathy, and I believe that's the most important thing
 - [Web Development Fundamentals](https://volunteer-tech.com/blog/Web-Development-Fundamentals---Part-One)
  <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
 
 <a href="https://www.instagram.com/aklilumandefro/">
   <img align="right" alt="Aklilu Mandefro | Instagram " width="30px"  height="60px" src="https://github.com/get-icon/geticon/blob/master/icons/instagram-icon.svg" />
