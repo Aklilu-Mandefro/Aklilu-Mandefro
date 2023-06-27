@@ -73,6 +73,16 @@ I value communication and empathy, and I believe that's the most important thing
 | ------------- | ------------- |
 
 
+### 📁 Top Repositories
+
+<a href="https://github.com/Aklilu-Mandefro/form-validation-in-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=form-validation-in-react&theme=buefy" />
+</a>
+
+<a href="https://github.com/Aklilu-Mandefro/game-application-using-react-and-typescript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=game-application-using-react-and-typescript&theme=buefy" />
+</a>
+
 ### ✍️ Latest Blog Posts : 
 - [Developing A Desktop Apps with HTML, CSS and JavaScript](https://volunteer-tech.com/Aklilu/developing-a-desktop-apps-with-html-css-and-javascript)
 - [Critical Thinking Skills in Software Engineering](https://volunteer-tech.com/Aklilu/critical-thinking-skills-in-software-engineering)
