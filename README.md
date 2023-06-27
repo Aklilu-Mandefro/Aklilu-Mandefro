@@ -15,31 +15,25 @@ I value communication and empathy, and I believe that's the most important thing
 💼 I'm the founder and CEO at [Volunteer Tech®](https://volunteer-tech.com/), a nonprofit professional training and coaching organization that serve the society around it by providing free of charge coding, leadership , research and personal development skills training to younger generations from low-income families, disadvantaged and marginalized communities such as street children, people with disabilities, and orphan children in a way that makes a difference in their lives and the world around them. By doing so, I feel like I'm contributing a little bit in helping humanity forward and making the world a better place.
 
 
-
-<h2 align="center">🌐 Stay Connected</h2>
-<p align="center"><a href="https://volunteer-tech.com/Aklilu">📃 Check out My Blog</a></p>
+<h3 align="center">🌐 Stay Connected</h3>
+<table align="center" >
+  <tr>
+    <th> <p align="center"><a href="https://volunteer-tech.com/Aklilu">📃 Check out My Blog</a></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/aklilu-mandefro-messele-8a3681194/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:aklilu.mandefro@volunteer-tech.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Aklilu-Mandefro"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.instagram.com/aklilumandefro/"><img title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
+</p> </th>
+ 
+  </tr>
+ 
+</table>
 
 <p>
 </p>
-<h2 align="center">
 
-### 📈 GitHub Stats </strong>
-
-
-| <a href="https://github.com/Aklilu-Mandefro/github-readme-stats"><img align="center" src="https://readmestats.999857.xyz/api?username=Aklilu-Mandefro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Aklilu's github stats" /></a> | <a href="https://github.com/Aklilu-Mandefro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aklilu-Mandefro&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
-| ------------- | ------------- |
-
-
-
-### 🧑‍💻🛠 Coding Languages and Tools:
-
+<h3 align="center">🧑‍💻🛠 My Stacks:</h3> 
 
 
 <table>
@@ -70,6 +64,14 @@ I value communication and empathy, and I believe that's the most important thing
   </tr>
 
 </table>
+
+
+### 📈 GitHub Stats </strong>
+
+
+| <a href="https://github.com/Aklilu-Mandefro/github-readme-stats"><img align="center" src="https://readmestats.999857.xyz/api?username=Aklilu-Mandefro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Aklilu's github stats" /></a> | <a href="https://github.com/Aklilu-Mandefro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aklilu-Mandefro&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
+| ------------- | ------------- |
+
 
 ### ✍️ Latest Blog Posts : 
 - [Developing A Desktop Apps with HTML, CSS and JavaScript](https://volunteer-tech.com/Aklilu/developing-a-desktop-apps-with-html-css-and-javascript)
