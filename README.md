@@ -56,10 +56,9 @@ I value communication and empathy, and I believe that's the most important thing
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/get-icon/geticon/blob/master/icons/aws.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
-
-
+    <img src="https://github.com/get-icon/geticon/blob/master/icons/aws.svg" title="AWS" alt="AWS" width="40" height="30"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>
 </p></th>
   </tr>
 
