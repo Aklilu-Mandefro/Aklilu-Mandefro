@@ -18,7 +18,7 @@ I value communication and empathy, and I believe that's the most important thing
 <h3 align="center">🌐 Stay Connected</h3>
 <table align="center" >
   <tr>
-    <th> <p align="center"><a href="https://volunteer-tech.com/Aklilu">📃 Check out My Blog</a></p>
+    <th> <p align="center"><a href="https://volunteer-tech.com/Aklilu">📚 Check out My Blog</a></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/aklilu-mandefro-messele-8a3681194/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:aklilu.mandefro@volunteer-tech.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
