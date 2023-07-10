@@ -83,7 +83,7 @@ I value communication and empathy, and I believe that's the most important thing
 </a>
 
 ### 📝 Latest Blog Posts : 
-- [Developing A Desktop Apps with HTML, CSS and JavaScript](https://volunteer-tech.com/Aklilu/developing-a-desktop-apps-with-html-css-and-javascript)
+- [Developing A Desktop Apps with Electron.js](https://volunteer-tech.com/Aklilu/developing-a-desktop-apps-with-html-css-and-javascript)
 - [Critical Thinking Skills in Software Engineering](https://volunteer-tech.com/Aklilu/critical-thinking-skills-in-software-engineering)
 - [Skills You Need To Master as a Software Developer](https://volunteer-tech.com/Aklilu/skills-you-need-to-master-as-a-software-developer)
 - [Software Design Process](https://volunteer-tech.com/Aklilu/software-design-process)
