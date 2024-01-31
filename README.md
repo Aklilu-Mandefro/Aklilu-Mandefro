@@ -42,9 +42,12 @@ I value communication and empathy, and I believe that's the most important thing
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React " width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
-<img src="https://github.com/get-icon/geticon/blob/master/icons/express.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
-<img src="https://github.com/get-icon/geticon/blob/master/icons/nextjs.svg" title="NextJS" alt="NextJS" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="50"/>&nbsp;
+<img src="https://github.com/get-icon/geticon/blob/master/icons/express.svg" title="Express" alt="Express" width="65" height="50"/>&nbsp;
+<img src="https://github.com/get-icon/geticon/blob/master/icons/nextjs.svg" title="NextJS" alt="NextJS" width="65" height="50"/>&nbsp;
+<img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb.svg" title="MongoDB" alt="MongoDB" width="80" height="50"/>&nbsp;
+
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; 
@@ -56,8 +59,6 @@ I value communication and empathy, and I believe that's the most important thing
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/get-icon/geticon/blob/master/icons/aws.svg" title="AWS" alt="AWS" width="40" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="laravel" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL"  alt="Microsoft SQL Server" width="40" height="40"/>&nbsp;
 
