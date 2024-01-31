@@ -42,7 +42,7 @@ I value communication and empathy, and I believe that's the most important thing
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React " width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="50"/>&nbsp;
 <img src="https://github.com/get-icon/geticon/blob/master/icons/express.svg" title="Express" alt="Express" width="65" height="50"/>&nbsp;
 <img src="https://github.com/get-icon/geticon/blob/master/icons/nextjs.svg" title="NextJS" alt="NextJS" width="65" height="50"/>&nbsp;
 <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb.svg" title="MongoDB" alt="MongoDB" width="80" height="50"/>&nbsp;
