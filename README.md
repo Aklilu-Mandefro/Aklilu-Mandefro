@@ -9,11 +9,12 @@
 
 💻 I'm a tech enthusiast who loves to learn new things and technology. I'm always talking to more experienced people to know new ideas and thoughts. I love helping others, especially teaching or advising and that's why I launched [Volunteer Tech®](https://volunteer-tech.com/). 
 I value communication and empathy, and I believe that's the most important thing above all, both at work and outside. <br>
-
+<details>
+ <summary>Read more</summary>
 ❤️ I love coding and most of my time goes into learning the best ways to write clean code. When I am not at my desk, I can be seen exploring new technologies, reading tech blogs, solving problems on Data Structures and Algorithms, and helping out tech geeks and others who are in need of urgent help.
 
 💼 I'm the founder and CEO at [Volunteer Tech®](https://volunteer-tech.com/), a nonprofit professional training and coaching organization that serve the society around it by providing free of charge coding, leadership , research and personal development skills training to younger generations from low-income families, disadvantaged and marginalized communities such as street children, people with disabilities, and orphan children in a way that makes a difference in their lives and the world around them. By doing so, I feel like I'm contributing a little bit in helping humanity forward and making the world a better place.
-
+</details>
 
 <h3 align="center">🌐 Stay Connected</h3>
 <table align="center" >
