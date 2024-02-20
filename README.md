@@ -11,7 +11,6 @@
 I value communication and empathy, and I believe that's the most important thing above all, both at work and outside. <br>
 
 ❤️ I love coding and most of my time goes into learning the best ways to write clean code. When I am not at my desk, I can be seen exploring new technologies, reading tech blogs, solving problems on Data Structures and Algorithms, and helping out tech geeks and others who are in need of urgent help.
-
 <details>
  <summary> <h3>My philosophy of coding</h3></summary>
  When I work on projects to solve a problem through coding, I first solve the problem, then write the code. And, while writing the code, make it work first, then make it better. <br> <br>
