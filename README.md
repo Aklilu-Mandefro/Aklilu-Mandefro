@@ -9,12 +9,19 @@
 
 💻 I'm a tech enthusiast who loves to learn new things and technology. I'm always talking to more experienced people to know new ideas and thoughts. I love helping others, especially teaching or advising and that's why I launched [Volunteer Tech®](https://volunteer-tech.com/). 
 I value communication and empathy, and I believe that's the most important thing above all, both at work and outside. <br>
-<details>
- <summary>Read more</summary>
- 
+
 ❤️ I love coding and most of my time goes into learning the best ways to write clean code. When I am not at my desk, I can be seen exploring new technologies, reading tech blogs, solving problems on Data Structures and Algorithms, and helping out tech geeks and others who are in need of urgent help.
 
-💼 I'm the founder and CEO at [Volunteer Tech®](https://volunteer-tech.com/), a nonprofit professional training and coaching organization that serve the society around it by providing free of charge coding, leadership , research and personal development skills training to younger generations from low-income families, disadvantaged and marginalized communities such as street children, people with disabilities, and orphan children in a way that makes a difference in their lives and the world around them. By doing so, I feel like I'm contributing a little bit in helping humanity forward and making the world a better place.
+<details>
+ <summary> <h3>My philosophy of coding</h3></summary>
+ When I work on projects to solve a problem through coding, I first solve the problem, then write the code. And, while writing the code, make it work first, then make it better. <br> <br>
+
+It is obvious that there are several ways of writing codes to solve a single problem. But for sure, one of these methods of solving a single problem is better than others. That's why I came up with three rules that definitely helped me identify whether or not mine or someone's code in my team is better:
+ ##### Whether or not the code: 
+1. Solves a specific problem
+2. Is easy to read, understand and maintain
+3. Is scalable and extendable
+
 </details>
 
 <h3 align="center">🌐 Stay Connected</h3>
