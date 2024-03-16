@@ -88,6 +88,12 @@ When I started my web developer role, I used to think the main goal of being a s
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=game-application-using-react-and-typescript&theme=buefy" />
 </a>
 
+ ### 📚 Published Research Works:
+- [A Framework for Mobile Based Research Paper Recommendation in a Conference](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r5qSNPQAAAAJ&citation_for_view=r5qSNPQAAAAJ:zYLM7Y9cAGgC)
+- [A Bio-Inspired Reward-Based Message Forwarding For Vehicular Social Network](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r5qSNPQAAAAJ&citation_for_view=r5qSNPQAAAAJ:2osOgNQ5qMEC)
+- [A model to determine factors affecting students academic performance: The case of Amhara region agency of competency, Ethiopia](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r5qSNPQAAAAJ&citation_for_view=r5qSNPQAAAAJ:9yKSN-GCB0IC)
+- [Comparing k-means and expectation maximization algorithm to cluster amharic noun terms](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r5qSNPQAAAAJ&citation_for_view=r5qSNPQAAAAJ:qjMakFHDy7sC)
+  
 ### 📝 Latest Blog Posts : 
 - [Developing A Desktop Apps with Electron.js](https://volunteer-tech.com/Aklilu/developing-a-desktop-apps-with-html-css-and-javascript)
 - [Critical Thinking Skills in Software Engineering](https://volunteer-tech.com/Aklilu/critical-thinking-skills-in-software-engineering)
