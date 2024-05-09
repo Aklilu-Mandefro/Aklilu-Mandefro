@@ -92,8 +92,8 @@ When I started my web developer role, I used to think the main goal of being a s
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=game-application-using-react-and-typescript&theme=buefy" />
 </a>
 
-<a href="https://github.com/Aklilu-Mandefro/form-validation-in-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=form-validation-in-react&theme=buefy" />
+<a href="https://github.com/Aklilu-Mandefro/javascript-Tic-Tac-Toe-game-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=javascript-Tic-Tac-Toe-game-app&theme=buefy" />
 </a>
 
  ### 📚 Published Research Works:
