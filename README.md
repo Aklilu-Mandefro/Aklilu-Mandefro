@@ -92,11 +92,14 @@ When I started my web developer role, I used to think the main goal of being a s
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=javascript-Tic-Tac-Toe-game-app&theme=buefy" />
 </a>
 
-<a href="https://github.com/Aklilu-Mandefro/game-app-with-react-and-typescript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=game-app-with-react-and-typescript&theme=buefy" />
+<a href="https://github.com/Aklilu-Mandefro/ecommerce-app-mern">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=ecommerce-app-mern&theme=buefy" />
 </a>
 
 
+
+
+https://github.com/Aklilu-Mandefro/ecommerce-app-mern
  ### 📚 Published Research Works:
 - [A Framework for Mobile Based Research Paper Recommendation in a Conference](https://www.sciencepublishinggroup.com/article/10.11648/j.ijdsa.20220805.11)
 - [A Bio-Inspired Reward-Based Message Forwarding For Vehicular Social Network](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r5qSNPQAAAAJ&citation_for_view=r5qSNPQAAAAJ:2osOgNQ5qMEC)
