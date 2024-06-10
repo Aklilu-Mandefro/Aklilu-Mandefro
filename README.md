@@ -15,7 +15,7 @@ When I started working as a software developer, I thought the main purpose of a 
 1. Solves a specific problem
 2. Is easy to read, understand and maintain and
 3. Is scalable and extendable
-
+<hr>
 <h3 align="center">🌐 Stay Connected</h3>
 <table align="center" >
   <tr>
