@@ -11,9 +11,9 @@
 I'm always talking to more experienced people to know new ideas and thoughts. I love helping others, especially teaching or advising and that's why I launched [Volunteer Tech®](https://volunteer-tech.com/). 
 I value communication and empathy, and I believe that's the most important thing above all, both at work and outside. <br>
 <br>
-When I started my web developer role, I used to think the main goal of being a software developer was just to write code. But, as time went on, I realized that was totally wrong. It's to solve problems instead. And this really helped me develop a coding principle thereafter, which is: first solve the problem, then write the code. And while writing the code, make it work first, then make it better. Apart from that, I was wondering about picking up one better solution among several solutions for a single problem, which definitely helped me come up with three things to consider while proving whether or not mine or someone's code in my team is better. Whether or not the code: 👇  
+When I started working as a software developer, I thought the main purpose of a software developer was to simply write code. But over time, I realized that was completely wrong. It's more about solving problems. This helped me to develop a principle for programming, which is: first solve the problem, then write the code. And when you write the code, make it work first, then make it better and DRY(Don't Repeat Yourself). Apart from that, I asked myself which solution is better among several solutions to a problem. This definitely helped me find three things I need to consider when proving whether or not my code or someone else's code is better. Whether or not the code: 👇  
 1. Solves a specific problem
-2. Is easy to read, understand and maintain
+2. Is easy to read, understand and maintain and
 3. Is scalable and extendable
 
 <h3 align="center">🌐 Stay Connected</h3>
