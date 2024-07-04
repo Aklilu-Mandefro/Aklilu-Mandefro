@@ -2,8 +2,6 @@
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5779&vCenter=true&width=800&lines=CALL+ME+CRAZY+BUT+I+LIKE+TO+SEE+OTHER+PEOPLE+HAPPY+AND+SUCCEEDING!)](https://git.io/typing-svg)
 
-
-
 <hr>
 💻 I have been working as a web developer and researcher for the past 5+ years and have spent countless hours of imagining, solving and planning things that come in my way. I am always very serious with what I do and my ambitions are always high as to never let myself down. All I am looking forward is the next project.
 <br><br>
@@ -80,7 +78,7 @@ Overall, my past experiences and failures are my great teachers.
 | ------------- | ------------- |
 
 
-### 📁 Top Repositories
+### 📁 Top Projects
 
 <a href="https://github.com/Aklilu-Mandefro/personal-website-in-react">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=personal-website-in-react&theme=buefy" />
