@@ -9,9 +9,11 @@
 I'm always talking to more experienced people to know new ideas and thoughts. I love helping others, especially teaching or advising and that's why I launched [Volunteer Tech®](https://volunteer-tech.com/). 
 I value communication and empathy, and I believe that's the most important thing above all, both at work and outside. <br>
 <br>
-When I started working as a software developer, I thought the main purpose of a software developer was to simply write code. But over time, I realized that was wrong. It's more about solving problems. Also, I confirmed that it's a combination of logical thinking and having a deep understanding of the problem I'm solving and the tools I'm using. Apart from that, I figured out that being a software developer is being a life-long learner. Along the way, I was also wondering about choosing one solution among multiple solutions to a single problem. However, I finally ended up setting three high-level goals to achieve this: whether or not the code solves a specific problem, is easier to read, understand, & maintain, and is scalable and extendable. 
+When I started working as a software developer, I believed the main purpose of the role was simply to write code. However, over time, I realized that this perspective was misguided. It's more about solving problems. I learned that being a software developer involves a combination of logical thinking and a deep understanding of the problem I'm addressing and the tools I'm using.
 
-Overall, my past experiences and failures are my great teachers. 
+Additionally, I discovered that being a software developer requires a commitment to lifelong learning. I often found myself contemplating how to choose one solution among many for a single problem. Ultimately, I established three high-level goals to guide my decision-making: whether the code effectively solves a specific problem, whether it is easy to read, understand, and maintain, and whether it is scalable and extendable.
+
+Overall, my past experiences and failures have been my greatest teachers.
 
 <hr>
 <br>
