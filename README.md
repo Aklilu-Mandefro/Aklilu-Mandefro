@@ -106,10 +106,8 @@ Overall, my past experiences and failures have been my greatest teachers.
 - [Comparing k-means and expectation maximization algorithm to cluster amharic noun terms](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r5qSNPQAAAAJ&citation_for_view=r5qSNPQAAAAJ:qjMakFHDy7sC)
   
 ### 📝 Latest Blog Posts : 
-- [Developing A Desktop Apps with Electron.js](https://volunteer-tech.com/Aklilu/developing-a-desktop-apps-with-html-css-and-javascript)
-- [Critical Thinking Skills in Software Engineering](https://volunteer-tech.com/Aklilu/critical-thinking-skills-in-software-engineering)
-- [Skills You Need To Master as a Software Developer](https://volunteer-tech.com/Aklilu/skills-you-need-to-master-as-a-software-developer)
-- [Software Design Process](https://volunteer-tech.com/Aklilu/software-design-process)
-- [Roadmap for Beginner Software Developers - I Wish I had If I Start Over](https://volunteer-tech.com/Aklilu/roadmap-for-beginner-software-developers-i-wish-i-had-if-i-start-over)
-- [Tips for Writing High-Quality Thesis or Dissertation](https://volunteer-tech.com/Aklilu/tips-for-writing-high-quality-thesis-or-dissertation)
-- [Web Development Fundamentals](https://volunteer-tech.com/blog/Web-Development-Fundamentals---Part-One)
+- [The Ruthless Teacher Made Me an Influential Teacher](https://aklilumandefro.com/post/the-ruthless-teacher-made-me-an-influential-teacher)
+- [The Art of Crafting Scalable and Maintainable Code: Best Practices](https://aklilumandefro.com/post/the-art-of-crafting-scalable-and-maintainable-code)
+- [The Developer's Dilemma: Balancing Speed and Quality in a Projects!](https://aklilumandefro.com/post/balancing-speed-and-quality-in-a-project)
+- [Project vs. Research: Understanding the Differences](https://aklilumandefro.com/post/project-vs-research-understanding-the-differences)
+
