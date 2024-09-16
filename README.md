@@ -48,6 +48,7 @@ Overall, my past experiences and failures have been my greatest teachers.
 <img src="https://github.com/get-icon/geticon/blob/master/icons/express.svg" title="Express" alt="Express" width="65" height="50"/>&nbsp;
 <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb.svg" title="MongoDB" alt="MongoDB" width="80" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" title="Mongoose" alt="Mongoose" width="80" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="PHP" width="80" height="50"/>&nbsp;
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
