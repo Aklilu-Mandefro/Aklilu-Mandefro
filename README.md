@@ -6,7 +6,7 @@
 💻 I have been working as a web developer and researcher for the past 5+ years and have spent countless hours of imagining, solving and planning things that come in my way. I am always very serious with what I do and my ambitions are always high as to never let myself down. All I am looking forward is the next project.
 <br><br>
 
-I'm always talking to more experienced people to know new ideas and thoughts. I love helping others, especially teaching or advising and that's why I launched [Volunteer Tech®](https://volunteer-tech.com/). 
+I'm always talking to more experienced people to know new ideas and thoughts. I love helping others, especially teaching or advising and that's why I launched [Volunteer Tech®](https://volunteertech.aklilumandefro.com/). 
 I value communication and empathy, and I believe that's the most important thing above all, both at work and outside. <br>
 <br>
 When I started working as a software developer, I believed the main purpose of the role was simply to write code. However, over time, I realized that this perspective was misguided. It's more about solving problems. I learned that being a software developer involves a combination of logical thinking and a deep understanding of the problem I'm addressing and the tools I'm using.
