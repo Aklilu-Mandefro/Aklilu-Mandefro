@@ -21,7 +21,7 @@ Overall, my past experiences and failures have been my greatest teachers.
 <h3 align="center">🌐 Stay Connected</h3>
 <table align="center" >
   <tr>
-    <th> <p align="center"><a href="https://aklilumandefro.com" target="_blank">📚 Visit my Website</a></p>
+    <th> <p align="center"><a href="https://aklilumandefro.com" target="_blank">📚 Visit my website</a></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/aklilu-mandefro/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:aklilumandefro.m@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
