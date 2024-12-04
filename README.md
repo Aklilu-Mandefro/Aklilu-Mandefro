@@ -35,7 +35,7 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 <p>
 </p>
 
-<h3 align="center">🧑‍💻🛠 My Stacks:</h3> 
+<h3 align="center">🧑‍💻📊 Coding & Research Stacks:</h3> 
 
 
 <table align="center">
@@ -56,13 +56,23 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-original-wordmark.svg" title="Jasmine" alt="Jasmine" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original-wordmark.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="MochaJS" alt="MochaJS" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/get-icon/geticon/blob/master/icons/aws.svg" title="AWS" alt="AWS" width="40" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL"  alt="Microsoft SQL Server" width="40" height="40"/>&nbsp;
+
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/EndNote.png/120px-EndNote.png" title="EndNote"  alt="EndNote" width="100" height="17"/><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png" title="Weka"  alt="Weka" width="90" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB"  alt="MATLAB" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS"  alt="SPSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX"  alt="LaTeX" width="40" height="40"/>&nbsp;
+
+
 
 
 
