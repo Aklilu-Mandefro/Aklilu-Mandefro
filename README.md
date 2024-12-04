@@ -35,7 +35,7 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 <p>
 </p>
 
-<h3 align="center">🧑‍💻📊 Coding & Research Stacks:</h3> 
+<h3 align="center">🧑‍💻🔍 Coding & Research Stacks:</h3> 
 
 
 <table align="center">
