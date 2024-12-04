@@ -34,7 +34,7 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 
 <p>
 </p>
-
+<br>
 <h3 align="center">🧑‍💻🔍 Coding & Research Stacks:</h3> 
 
 
@@ -81,6 +81,7 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 
 </table>
 
+<br>
 
 ### 📈 GitHub Stats </strong>
 
@@ -88,6 +89,7 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 | <a href="https://github.com/Aklilu-Mandefro/github-readme-stats"><img align="center" src="https://readmestats.999857.xyz/api?username=Aklilu-Mandefro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Aklilu's github stats" /></a> | <a href="https://github.com/Aklilu-Mandefro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aklilu-Mandefro&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
 
+<br>
 
 ### 📁 Top Projects
 
@@ -107,13 +109,16 @@ Overall, my past experiences and failures have been my greatest teachers. One of
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=javascript-chatbot-app&theme=buefy" />
 </a>
 
-
+<br>
 
  ### 📚 Published Research Works:
+ 
 - [A Framework for Mobile Based Research Paper Recommendation in a Conference](https://www.sciencepublishinggroup.com/article/10.11648/j.ijdsa.20220805.11)
 - [A Bio-Inspired Reward-Based Message Forwarding For Vehicular Social Network](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r5qSNPQAAAAJ&citation_for_view=r5qSNPQAAAAJ:2osOgNQ5qMEC)
 - [A model to determine factors affecting students academic performance: The case of Amhara region agency of competency, Ethiopia](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r5qSNPQAAAAJ&citation_for_view=r5qSNPQAAAAJ:9yKSN-GCB0IC)
 - [Comparing k-means and expectation maximization algorithm to cluster amharic noun terms](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r5qSNPQAAAAJ&citation_for_view=r5qSNPQAAAAJ:qjMakFHDy7sC)
+
+  <br>
   
 ### 📝 Latest Blog Posts : 
 - [The Ruthless Teacher Made Me an Influential Teacher](https://aklilumandefro.com/post/the-ruthless-teacher-made-me-an-influential-teacher)
