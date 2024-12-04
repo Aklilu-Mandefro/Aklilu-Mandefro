@@ -1,9 +1,9 @@
 <a href="https://aklilumandefro.com" target="_blank"><img src="https://i.imgur.com/JjzzdzR.png" alt="Aklilu GitHub README header image"> </a>
-<p align="center">  
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5779&vCenter=true&width=800&lines=CALL+ME+CRAZY+BUT+I+LIKE+TO+SEE+OTHER+PEOPLE+HAPPY+AND+SUCCEEDING!)](https://git.io/typing-svg)
 
-</p>
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5779&vCenter=true&width=900&lines=CALL+ME+CRAZY+BUT+I+LIKE+TO+SEE+OTHER+PEOPLE+HAPPY+AND+SUCCEEDING!)](https://git.io/typing-svg)
+
+
 
 <hr>
 
