@@ -113,10 +113,10 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 
  ### 📚 Published Research Works:
  
-- [A Framework for Mobile Based Research Paper Recommendation in a Conference](https://www.sciencepublishinggroup.com/article/10.11648/j.ijdsa.20220805.11)
-- [A Bio-Inspired Reward-Based Message Forwarding For Vehicular Social Network](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r5qSNPQAAAAJ&citation_for_view=r5qSNPQAAAAJ:2osOgNQ5qMEC)
-- [A model to determine factors affecting students academic performance: The case of Amhara region agency of competency, Ethiopia](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r5qSNPQAAAAJ&citation_for_view=r5qSNPQAAAAJ:9yKSN-GCB0IC)
-- [Comparing k-means and expectation maximization algorithm to cluster amharic noun terms](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r5qSNPQAAAAJ&citation_for_view=r5qSNPQAAAAJ:qjMakFHDy7sC)
+1. [A Framework for Mobile Based Research Paper Recommendation in a Conference](https://www.sciencepublishinggroup.com/article/10.11648/j.ijdsa.20220805.11)
+2. [A Bio-Inspired Reward-Based Message Forwarding For Vehicular Social Network](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r5qSNPQAAAAJ&citation_for_view=r5qSNPQAAAAJ:2osOgNQ5qMEC)
+3. [A model to determine factors affecting students academic performance: The case of Amhara region agency of competency, Ethiopia](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r5qSNPQAAAAJ&citation_for_view=r5qSNPQAAAAJ:9yKSN-GCB0IC)
+4. [Comparing k-means and expectation maximization algorithm to cluster amharic noun terms](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r5qSNPQAAAAJ&citation_for_view=r5qSNPQAAAAJ:qjMakFHDy7sC)
 
   <br>
   
