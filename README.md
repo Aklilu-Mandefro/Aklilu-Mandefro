@@ -13,7 +13,7 @@ When I started working as a software developer, I believed the main purpose of t
 
 Additionally, I discovered that being a software developer requires a commitment to lifelong learning. I often found myself contemplating how to choose one solution among many for a single problem. Ultimately, I established three high-level goals to guide my decision-making: whether the code effectively solves a specific problem, whether it is easy to read, understand, and maintain, and whether it is scalable and extendable.
 
-Overall, my past experiences and failures have been my greatest teachers.
+Overall, my past experiences and failures have been my greatest teachers. One of the key lessons I've learned on my journey as a software developer is that the role is fundamentally about being both a problem solver and a lifelong learner. Without this mindset, I can assure you, you'll inevitably find yourself stuck at some point. So, if you’re not genuinely passionate about consistently learning new things, then software development or engineering might not be the right path for you.
 
 <hr>
 <br>
