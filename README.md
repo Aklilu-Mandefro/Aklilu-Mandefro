@@ -19,6 +19,8 @@ Additionally, I discovered that being a software developer requires a commitment
 
 Overall, my past experiences and failures have been my greatest teachers. One of the key lessons I've learned on my journey as a software developer is that the role is fundamentally about being both a problem solver and a lifelong learner. Without this mindset, I can assure you, you'll inevitably find yourself stuck at some point. So, if you’re not genuinely passionate about consistently learning new things, then software development or engineering might not be the right path for you.
 
+<h4 align="center"> ✨ Thank you for visiting my corner of the web! 🌍 </h4>
+
 <hr>
 <br>
 
