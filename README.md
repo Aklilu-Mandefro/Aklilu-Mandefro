@@ -117,7 +117,7 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 
 <br> <br>
 
- ### 📚 Research Publications:
+ ### 📚🔍 Research Publications:
  
 1. [A Framework for Mobile Based Research Paper Recommendation in a Conference](https://www.sciencepublishinggroup.com/article/10.11648/j.ijdsa.20220805.11)
 2. [A Bio-Inspired Reward-Based Message Forwarding For Vehicular Social Network](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r5qSNPQAAAAJ&citation_for_view=r5qSNPQAAAAJ:2osOgNQ5qMEC)
@@ -125,6 +125,17 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 4. [Comparing k-means and expectation maximization algorithm to cluster amharic noun terms](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=r5qSNPQAAAAJ&citation_for_view=r5qSNPQAAAAJ:qjMakFHDy7sC)
 
   <br>
+
+ ### 📚🔍 Research Interests:
+ 
+- Software Engineering
+- Artificial Intelligence
+- Information Retrieval
+- Knowledge Representation and Machine Learning
+- Human-Computer Interaction
+- Data Mining 
+
+<br>
   
 ### 📝 Latest Blog Posts : 
 - [The Ruthless Teacher Made Me an Influential Teacher](https://aklilumandefro.com/post/the-ruthless-teacher-made-me-an-influential-teacher)
