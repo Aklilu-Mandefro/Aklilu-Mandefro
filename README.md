@@ -126,13 +126,13 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 
   <br>
 
- ### 📚🔍 Research Interests:
+ ### ❤️🔍 Research Interests:
  
 - Software Engineering
 - Artificial Intelligence
-- Information Retrieval
 - Knowledge Representation and Machine Learning
 - Human-Computer Interaction
+- Information Retrieval
 - Data Mining 
 
 <br>
