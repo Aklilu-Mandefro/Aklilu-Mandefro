@@ -24,10 +24,11 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 <hr>
 <br>
 
-<h3 align="center">🌐 Stay Connected</h3>
+<h3 align="center">🤝 Stay Connected</h3>
 <table align="center" >
   <tr>
-    <th> <p align="center"><a href="https://aklilumandefro.com" target="_blank">📚 Visit my website</a></p>
+    <th> <p align="center"><a href="https://aklilumandefro.com" style="text-decoration:none;" target="_blank" > Visit my website</a></p>
+          
 <p align="center">
   <a href="https://www.linkedin.com/in/aklilu-mandefro/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:aklilumandefro.m@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -97,7 +98,7 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 
 <br>
 
-### 📁 Top Projects
+### 🏆 Top Projects
 
 <a href="https://github.com/Aklilu-Mandefro/personal-website-in-react">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=personal-website-in-react&theme=buefy" />
@@ -126,7 +127,7 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 
   <br>
 
- ### ❤️🔍 Research Interests:
+ ### 💛🔍 Research Interests:
  
 - Software Engineering
 - Artificial Intelligence
