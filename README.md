@@ -150,7 +150,7 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 <br>
   
 ### 📝 Latest Blog Posts : 
-- [The Ruthless Teacher Made Me an Influential Teacher](https://aklilumandefro.com/post/the-ruthless-teacher-made-me-an-influential-teacher)
+- [The Ruthless Teacher Made Me an Influential Teacher](https://goodworkday.com/turning-pain-into-purpose-my-teaching-journey)
 - [The Art of Crafting Scalable and Maintainable Code: Best Practices](https://aklilumandefro.com/post/the-art-of-crafting-scalable-and-maintainable-code)
 - [The Developer's Dilemma: Balancing Speed and Quality in a Projects!](https://aklilumandefro.com/post/balancing-speed-and-quality-in-a-project)
 - [Project vs. Research: Understanding the Differences](https://aklilumandefro.com/post/project-vs-research-understanding-the-differences)
