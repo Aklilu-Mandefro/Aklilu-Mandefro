@@ -7,7 +7,7 @@
 
 <hr>
 
-💻💡 I have been working as a software engineer and researcher for the past 6+ years and have spent countless hours of imagining, solving and planning things that come in my way. I am always very serious with what I do and my ambitions are always high as to never let myself down. All I am looking forward is the next project.
+💻💡 I have been working as a software engineer and researcher for the past 7+ years and have spent countless hours of imagining, solving and planning things that come in my way. I am always very serious with what I do and my ambitions are always high as to never let myself down. All I am looking forward is the next project.
 <br><br>
 
 I'm always talking to more experienced people to know new ideas and thoughts. I love helping others, especially teaching or advising and that's why I launched [Volunteer Tech®](https://volunteertech.aklilumandefro.com/). 
@@ -131,10 +131,11 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 
  ### 📚🔍 Research Publications:
  
-1. [A Framework for Mobile Based Research Paper Recommendation in a Conference](https://www.sciencepublishinggroup.com/article/10.11648/j.ijdsa.20220805.11)
-2. [A Bio-Inspired Reward-Based Message Forwarding For Vehicular Social Network](https://irjst.com/wp-content/uploads/March2020-v1-i2/IRJST122006.pdf)
-3. [A model to determine factors affecting students academic performance: The case of Amhara region agency of competency, Ethiopia](https://irjst.com/wp-content/uploads/March2020-v1-i2/IRJST122002.pdf)
-4. [Comparing k-means and expectation maximization algorithm to cluster amharic noun terms](https://www.academia.edu/download/111019906/Published_Article_4.pdf)
+1. [Ensemble machine learning for predicting academic performance in STEM education](https://link.springer.com/article/10.1007/s44217-025-00710-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250815&utm_content=10.1007%2Fs44217-025-00710-4)
+2. [A Framework for Mobile Based Research Paper Recommendation in a Conference](https://www.sciencepublishinggroup.com/article/10.11648/j.ijdsa.20220805.11)
+3. [A Bio-Inspired Reward-Based Message Forwarding For Vehicular Social Network](https://irjst.com/wp-content/uploads/March2020-v1-i2/IRJST122006.pdf)
+4. [A model to determine factors affecting students academic performance: The case of Amhara region agency of competency, Ethiopia](https://irjst.com/wp-content/uploads/March2020-v1-i2/IRJST122002.pdf)
+5. [Comparing k-means and expectation maximization algorithm to cluster amharic noun terms](https://www.academia.edu/download/111019906/Published_Article_4.pdf)
 
   <br>
 
