@@ -90,45 +90,8 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 
 <br>
 
-### 📈 GitHub Stats </strong>
 
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Aklilu-Mandefro&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Aklilu-Mandefro&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aklilu-Mandefro&layout=compact&theme=radical)
-
-<br>
-
-### 🏆 Top Projects
-
-<a href="https://github.com/Aklilu-Mandefro/personal-website-in-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=personal-website-in-react&theme=buefy" />
-</a>
-
-<a href="https://github.com/Aklilu-Mandefro/chatCall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=chatCall&theme=buefy" />
-</a>
-
-<a href="https://github.com/Aklilu-Mandefro/ecommerce-app-mern">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=ecommerce-app-mern&theme=buefy" />
-</a>
-
-
-
-<a href="https://github.com/Volunteer-Tech/akiTech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=volunteer-tech&repo=akiTech&theme=buefy" />
-</a>
-
-
-<a href="https://github.com/Aklilu-Mandefro/javascript-chatbot-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aklilu-mandefro&repo=javascript-chatbot-app&theme=buefy" />
-</a>
-
-
-
-
-
-<br> <br>
 
  ### 📚🔍 Research Publications:
  
