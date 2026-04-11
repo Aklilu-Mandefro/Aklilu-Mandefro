@@ -117,7 +117,7 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 
 <br>
 
- ### 📚🔍 Research Publications:
+ ### 📚🔍 Research Publications
  
 1. [Ensemble machine learning for predicting academic performance in STEM education](https://link.springer.com/article/10.1007/s44217-025-00710-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250815&utm_content=10.1007%2Fs44217-025-00710-4)
 2. [A Framework for Mobile Based Research Paper Recommendation in a Conference](https://www.sciencepublishinggroup.com/article/10.11648/j.ijdsa.20220805.11)
@@ -127,7 +127,7 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 
   <br>
 
- ### 💛🔍 Research Interests:
+ ### 💛🔍 Research Interests
  
 - Software Engineering
 - Artificial Intelligence
@@ -138,7 +138,7 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 
 <br>
   
-### 📝 Latest Blog Posts : 
+### 📝 Latest Blog Posts 
 - [The Cruel Teacher Made Me an Influential Teacher](https://goodworkday.com/turning-pain-into-purpose-my-teaching-journey)
 - [The Art of Crafting Scalable and Maintainable Code: Best Practices](https://aklilumandefro.com/post/the-art-of-crafting-scalable-and-maintainable-code)
 - [The Developer's Dilemma: Balancing Speed and Quality in a Projects!](https://aklilumandefro.com/post/balancing-speed-and-quality-in-a-project)
