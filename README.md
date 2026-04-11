@@ -112,8 +112,9 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Aklilu-Mandefro&repo=askme" width="44%"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Aklilu-Mandefro&repo=adminapp" width="47%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Aklilu-Mandefro&repo=adminApp" width="44%"/>
 </p>
+
 
 <br>
 
