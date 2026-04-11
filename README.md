@@ -90,6 +90,19 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 
 <br>
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&theme=radical&preferLogin=false">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Aklilu-Mandefro?cardType=level&theme=radical&preferLogin=false" width="49%" />
+  </a><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aklilu-Mandefro&layout=compact&theme=radical" width="40%" />
+</p>
+
+
+<br>
+
+
+
 
 
 
