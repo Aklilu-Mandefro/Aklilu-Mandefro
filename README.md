@@ -71,12 +71,22 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL"  alt="Microsoft SQL Server" width="40" height="40"/>&nbsp;
 
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/EndNote.png/120px-EndNote.png" title="EndNote"  alt="EndNote" width="100" height="17"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png" title="Weka"  alt="Weka" width="90" height="40"/>&nbsp;
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png" title="Weka"  alt="Weka" width="90" height="40"/>
+
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
+
+
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB"  alt="MATLAB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS"  alt="SPSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX"  alt="LaTeX" width="40" height="40"/>&nbsp;
+
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/EndNote.png/120px-EndNote.png" title="EndNote"  alt="EndNote" width="100" height="17"/>&nbsp;
+
 
 
 
