@@ -102,22 +102,6 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 </p>
 
 
-<br>
-
-### 🏆 Top Projects
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Aklilu-Mandefro&repo=myPortfolio" width="44%"/> 
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Aklilu-Mandefro&repo=chatCall" width="44%"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Aklilu-Mandefro&repo=askme" width="44%"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Aklilu-Mandefro&repo=adminApp" width="44%"/>
-</p>
-
 
 <br>
 
