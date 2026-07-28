@@ -112,7 +112,5 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 - Software Engineering
 - Human-Computer Interaction
 - Information Retrieval
-- Data Mining 
-
-<br>
+- Data Mining
   
