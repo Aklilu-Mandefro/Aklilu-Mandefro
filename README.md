@@ -91,16 +91,6 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 
 </table>
 
-<br>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&theme=radical&preferLogin=false">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Aklilu-Mandefro?cardType=level&theme=radical&preferLogin=false" width="49%" />
-  </a><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aklilu-Mandefro&layout=compact&theme=radical" width="40%" />
-</p>
-
 
 
 <br>
@@ -117,18 +107,12 @@ Overall, my past experiences and failures have been my greatest teachers. One of
 
  ### 💛🔍 Research Interests
  
-- Software Engineering
 - Artificial Intelligence
 - Knowledge Representation and Machine Learning
+- Software Engineering
 - Human-Computer Interaction
 - Information Retrieval
 - Data Mining 
 
 <br>
   
-### 📝 Latest Blog Posts 
-- [The Cruel Teacher Made Me an Influential Teacher](https://goodworkday.com/turning-pain-into-purpose-my-teaching-journey)
-- [The Art of Crafting Scalable and Maintainable Code: Best Practices](https://aklilumandefro.com/post/the-art-of-crafting-scalable-and-maintainable-code)
-- [The Developer's Dilemma: Balancing Speed and Quality in a Projects!](https://aklilumandefro.com/post/balancing-speed-and-quality-in-a-project)
-- [Project vs. Research: Understanding the Differences](https://aklilumandefro.com/post/project-vs-research-understanding-the-differences)
-
