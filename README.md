@@ -7,19 +7,47 @@
 
 <hr>
 
-💻💡 I have been working as a software engineer and researcher for the past 8+ years and have spent countless hours of imagining, solving and planning things that come in my way. I am always very serious with what I do and my ambitions are always high as to never let myself down. All I am looking forward is the next project.
-<br><br>
 
-I'm always talking to more experienced people to know new ideas and thoughts. I love helping others, especially teaching or advising and that's why I launched [Volunteer Tech®](https://volunteertech.aklilumandefro.com/). 
-I value communication and empathy, and I believe that's the most important thing above all, both at work and outside. <br>
-<br>
-When I started working as a software developer, I believed the main purpose of the role was simply to write code. However, over time, I realized that this perspective was misguided. It's more about solving problems. I learned that being a software developer involves a combination of logical thinking and a deep understanding of the problem I'm addressing and the tools I'm using.
 
-Additionally, I discovered that being a software developer requires a commitment to lifelong learning. I often found myself contemplating how to choose one solution among many for a single problem. Ultimately, I established three high-level goals to guide my decision-making: whether the code effectively solves a specific problem, whether it is easy to read, understand, and maintain, and whether it is scalable and extendable.
+## 👨‍💻 About Me
 
-Overall, my past experiences and failures have been my greatest teachers. One of the key lessons I've learned on my journey as a software developer is that the role is fundamentally about being both a problem solver and a lifelong learner. Without this mindset, I can assure you, you'll inevitably find yourself stuck at some point. So, if you’re not genuinely passionate about consistently learning new things, then software development or engineering might not be the right path for you.
+I'm a **software engineer and researcher with 8+ years of experience** in conducting research and building applications.
 
-<h4 align="center"> ✨ Thank you for visiting my corner of the web! 🌍 </h4>
+I enjoy exploring challenging problems, designing thoughtful solutions, and building software that is not only functional but also readable, maintainable, and scalable. I'm always looking forward to the next challenge, the next idea, and the next opportunity to learn.
+
+### 🧠 My Philosophy
+
+When I started programming, I thought software engineering was primarily about writing code. Experience taught me otherwise.
+
+**Great engineering isn't about writing more code. It's about solving the right problems in the right way.**
+
+Every solution I build is guided by three principles:
+
+- **Correctness** — Does it solve the actual problem?
+- **Simplicity** — Is it readable, understandable, and maintainable?
+- **Scalability** — Can it evolve as needs and challenges grow?
+
+I believe the best engineers never stop learning. Our mistakes teach us, our challenges sharpen us, and our curiosity keeps us moving forward.
+
+### 🌱 Beyond Code
+
+I'm passionate about sharing knowledge, mentoring others, and learning from people whose experiences challenge my perspective. I believe empathy, communication, and collaboration are just as important as technical expertise.
+
+That belief inspired me to establish [**Volunteer Tech®**](https://volunteertech.aklilumandefro.com/), an initiative dedicated to empowering marginalized youth through free professional skills training and opportunities to build a better future.
+
+To me, technology is more than a profession. **It's an opportunity to solve meaningful problems, empower people, and make a positive difference.**
+
+---
+
+<p align="center">
+  <em>Build with purpose. Learn without limits. Leave a positive impact.</em>
+</p>
+
+<p align="center">
+  ✨ Thanks for stopping by. Keep building, keep learning, and keep making a difference! 🌍
+</p>
+
+
 
 <hr>
 <br>
