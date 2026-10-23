@@ -8,9 +8,6 @@
 <hr>
 
 
-
-## 👨‍💻 About Me
-
 I'm a **software engineer and researcher with 8+ years of experience** in conducting research and building applications.
 
 I enjoy exploring challenging problems, designing thoughtful solutions, and building software that is not only functional but also readable, maintainable, and scalable. I'm always looking forward to the next challenge, the next idea, and the next opportunity to learn.
