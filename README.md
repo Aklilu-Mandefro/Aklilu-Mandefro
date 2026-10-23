@@ -132,10 +132,10 @@ To me, technology is more than a profession. **It's an opportunity to solve mean
 
  ### 💛🔍 Research Interests
  
-- Artificial Intelligence
-- Knowledge Representation and Machine Learning
-- Software Engineering
-- Human-Computer Interaction
-- Information Retrieval
-- Data Mining
+- Applied AI and Machine Learning
+- AI Safety, Reliability, Accountability, and Evaluation
+- Data Mining 
+- Natural Language Processing
+
+
   
